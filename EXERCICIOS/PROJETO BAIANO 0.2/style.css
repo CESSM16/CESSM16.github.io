@@ -119,6 +119,7 @@ img{
 }
 
 footer{
+    text-decoration: none;
     background-color: black;
     color: rgb(194, 32, 32);
     font-weight: bold;
