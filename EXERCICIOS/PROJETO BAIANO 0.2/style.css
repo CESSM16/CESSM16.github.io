@@ -41,6 +41,7 @@ header{
 }
 
 nav{
+    width: auto;
     background-color: rgb(22, 22, 22);
     text-size-adjust: auto;
     padding: 10px;
@@ -52,7 +53,7 @@ nav{
 
 nav >a {
     text-decoration: none;
-    width: auto;
+    text-size-adjust: auto;
     font-size: 1.2em;
     color: rgb(167, 15, 15);
     padding:10px;
