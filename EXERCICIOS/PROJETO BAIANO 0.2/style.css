@@ -52,6 +52,7 @@ nav{
 
 nav >a {
     text-decoration: none;
+    width: auto;
     font-size: 1.2em;
     color: rgb(167, 15, 15);
     padding:10px;
