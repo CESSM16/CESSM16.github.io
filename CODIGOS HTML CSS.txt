@@ -1,0 +1,73 @@
+CODIGOS HTML CSS
+
+<mark>
+maca o texto 
+</mark>
+
+<pre>
+faz com que o texto apareça na distancia que foi escrita
+</pre>
+
+<abbr>
+adiciona significado a uma palavra ou frase
+</abbr>
+
+<q>
+cria "aspas" no texto
+</q>
+
+LISTAS
+
+<ol>
+cria uma lista numerada
+</ol>
+
+<ul>
+cria uma lista simples
+</ul>
+
+<li>
+adiciona o texto á lista
+</li>
+
+<dl>
+cria uma lista com significado
+</dl>
+
+<dt> adiciona o texto a linha</dt>
+<dl> significado do texto escrito acima </dl>
+
+
+LINKS
+
+<a> 
+transforma o texto selecionado em um link 
+</a>
+
+target="_blank" rel="external"
+FAZ COM QUE O LINK ABRA UMA PAGINA EXTERNA AO SITE
+
+IMAGEM
+<img>
+adiciona imagem
+</img>
+
+<picture>
+adiciona um condição a imagem
+</picture>
+
+<source media>
+escolhe outra imagem caso o tamanho da tela seja diferente
+</source media>
+
+
+
+
+
+
+
+
+
+
+
+
