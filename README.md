@@ -7,7 +7,7 @@
 
 <ul>
         <li>
-        <a href="ProjetosGuanabara.html">PROJETOS CursoEmVideo</a>
+        <a href="ProjetosGuanabara.html">Projetos CursoEmVideo</a>
         </li>
 </ul>
 
